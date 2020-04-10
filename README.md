@@ -3,7 +3,7 @@ Uses the latest Hypixel Skyblock Bazaar prices to calculate the most profitable 
 
 Set your own API key at the top of `code.js` when setting up your own copy of the software. Please be kind and don't hammer the API server too hard :)
 
-Operation is a bit janky as minion "time between actions" and "items per action" must be entered manually - I believe these actually vary between types of minion and minion levels, so a future version of this software may include inputs for players' available minion levels to improve the quality of calculations.
+Operation is a bit janky as minion "time between actions" and "items per action" must be entered manually - I believe these actually vary between types of minion as well as by minion levels, so a future version of this software may include inputs for players' available minion levels to improve the quality of calculations.
 
 Suggestions and improvements are welcome. The revenue maths was provided by my kid, so if anyone knows better, please let me know.
 
