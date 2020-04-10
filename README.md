@@ -10,4 +10,5 @@ Suggestions and improvements are welcome. The revenue maths was provided by my k
 As well as original work by Ian Renton, released as public domain under the "Unlicense" (see LICENSE file), this repository also contains the following MIT licensed software:
 1) A copy of [moment.js](https://momentjs.com/).
 2) A copy of the [Minecraft web font by South-Paw](https://github.com/South-Paw/typeface-minecraft).
+
 Thanks to the providers of both.
