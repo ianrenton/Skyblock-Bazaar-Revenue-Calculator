@@ -1,7 +1,7 @@
 // Static defines
 var DOMAIN = "https://api.hypixel.net";
 var KEY = "";
-var REJECTED_ITEMS = ["SILK", "TOOTH", "REVENANT", "FRAGMENT"];
+var REJECTED_ITEMS = ["BLOCK", "COMPACTOR", "SILK", "TOOTH", "REVENANT", "FRAGMENT"];
 var lastRefresh = new Date(0);
 
 // Globals
