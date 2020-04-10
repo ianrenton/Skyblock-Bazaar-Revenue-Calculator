@@ -1,4 +1,4 @@
-# Skyblock-Bazaar-Revenue-Calculator
+# Skyblock Bazaar Minion Revenue Calculator
 Uses the latest Hypixel Skyblock Bazaar prices to calculate the most profitable minions.
 
 Set your own API key at the top of `code.js` when setting up your own copy of the software. Please be kind and don't hammer the API server too hard :)
