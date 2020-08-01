@@ -1,6 +1,7 @@
 // Static defines
 var DOMAIN = "https://api.hypixel.net";
-var KEY = "";
+// INSERT YOUR KEY HERE - OBTAIN BY RUNNING THE /api COMMAND ON HYPIXEL
+var KEY = "7a55e11f-9484-4773-af11-69295c39157c";
 var REJECTED_ITEMS = ["BLOCK", "COMPACTOR", "SILK", "TOOTH", "REVENANT", "FRAGMENT"];
 var lastRefresh = new Date(0);
 
